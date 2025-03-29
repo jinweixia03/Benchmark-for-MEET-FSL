@@ -80,9 +80,10 @@ You can download MEET-FSL in [BaiduDrive](https://pan.baidu.com/s/1VWAq_YiRxJTua
 code: 1121
 
 # Acknowledgements
+[MEET](https://jerrywyn.github.io/project/MEET.html)
 
 # Citation
-If you find this work helpful for your research, please consider citing paper:
+If you find this work helpful for your research, please consider citing related paper:
 ```
 @article{li2025meet,
   title={MEET: A Million-Scale Dataset for Fine-Grained Geospatial Scene Classification with Zoom-Free Remote Sensing Imagery},
