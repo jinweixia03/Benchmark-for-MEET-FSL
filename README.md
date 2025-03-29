@@ -1,6 +1,8 @@
 # Benchmark-for-MEET-FSL
 A Simple Benchmark for **Few-Shot Learning** in Remote Sensing Scene Classification on the MEET Dataset.
 
+More information will be updated soon.
+
 ## A Brief Introduction to the MEET Dataset
 The MEET (Million-scale finE-grained geospatial scEne classification dataseT) is a state-of-the-art, large-scale dataset designed for remote sensing scene classification. As one of the most comprehensive datasets in this domain, MEET comprises over 1.03 million high-resolution, unscaled remote sensing images spanning 80 fine-grained geospatial scene categories. A visual summary of the dataset is presented in Figure 1.
 
