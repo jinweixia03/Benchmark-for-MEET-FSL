@@ -93,4 +93,12 @@ If you find this work helpful for your research, please consider citing related 
   journal={arXiv preprint arXiv:2503.11219},
   year={2025}
 }
+
+@article{dong2025dba,
+  title={DBA-RMCL: Refined Metric Contrastive Learning With Dual-Branch Attention for Few-Shot Remote Sensing Image Scene Classification},
+  author={Dong, Ruchan and Xia, Jinwei and Jiao, Licheng and Zhao, Jin and Hong, Lei and Yun, Zengxin},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2025},
+  publisher={IEEE}
+}
 ```
